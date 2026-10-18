@@ -1,0 +1,43 @@
+{
+  "name": "ppt-supervisor",
+  "version": "1.0.0",
+  "description": "PPT production supervisor enforcing a five-phase SOP with hard gates and master review",
+  "author": {
+    "name": "郝沁雅",
+    "email": "najeebjb724-star@users.noreply.github.com"
+  },
+  "agents": ["./agents/ppt-supervisor.md"],
+
+  "expertType": "agent",
+  "agentName": "ppt-supervisor",
+
+  "displayName": {
+    "en": "Meow Makes PPT",
+    "zh": "猫猫来做PPT"
+  },
+  "profession": {
+    "en": "PPT Production Supervisor",
+    "zh": "PPT 制作监理"
+  },
+  "displayDescription": {
+    "en": "Five-phase PPT companion: grinds the logic before advancing, splits assets with style samples, master-level review, and cross-session handoff summaries.",
+    "zh": "五阶段陪跑PPT制作，磨逻辑不放行、拆素材出样图、大师人格评审，交接小结支持跨会话续作。"
+  },
+  "avatar": "avatars/expert.png",
+  "categoryId": "06-ContentCreative",
+  "defaultInitPrompt": {
+    "zh": "新PPT项目：帮我从搜集资料开始走流程",
+    "en": "New PPT project: start the workflow from material gathering"
+  },
+  "plugin": "ppt-supervisor",
+  "tags": [
+    { "en": "Presentation Design", "zh": "PPT制作" },
+    { "en": "Narrative Logic", "zh": "逻辑打磨" },
+    { "en": "Deck Review", "zh": "演示评审" }
+  ],
+  "quickPrompts": [
+    { "en": "New PPT project: start the workflow from material gathering", "zh": "新PPT项目：帮我从搜集资料开始走流程" },
+    { "en": "Materials ready, start grinding the PPT logic", "zh": "资料已齐，现在开始磨PPT逻辑" },
+    { "en": "Draft done, switch to master review mode", "zh": "PPT初稿完成，切换大师评审找问题" }
+  ]
+}
