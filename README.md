@@ -1,6 +1,6 @@
 # 猫猫来做PPT · ppt-supervisor
 
-![WorkBuddy Expert](https://img.shields.io/badge/WorkBuddy-Expert-6C5CE7) ![Version](https://img.shields.io/badge/version-1.0.0-blue) ![License: MIT](https://img.shields.io/badge/License-MIT-green)
+![WorkBuddy Expert](https://img.shields.io/badge/WorkBuddy-Expert-6C5CE7) ![Version](https://img.shields.io/badge/version-1.0.1-blue) ![License: MIT](https://img.shields.io/badge/License-MIT-green)
 
 > WorkBuddy 专家：按五阶段 SOP 陪你做 PPT——**逻辑没磨出来，不让你往下走。**
 

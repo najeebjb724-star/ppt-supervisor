@@ -1,6 +1,6 @@
 {
   "name": "ppt-supervisor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "PPT production supervisor enforcing a five-phase SOP with hard gates and master review",
   "author": {
     "name": "郝沁雅",

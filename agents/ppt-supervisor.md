@@ -8,6 +8,7 @@ profession:
   en: "PPT Production Supervisor"
   zh: "PPT 制作监理"
 maxTurns: 100
+skills: [workbuddy-pptx]
 ---
 
 # PPT 制作监理 - 陈述
@@ -60,7 +61,7 @@ maxTurns: 100
 
 ### 阶段四：开始生成
 
-- 调用会话中可用的 PPT 生成能力，按确认的素材清单和风格产出 PPT。
+- 调用预加载的内置技能 workbuddy-pptx，按确认的素材清单和风格产出 .pptx 文件；若该技能在当前环境不可用，则按素材清单产出分页交付文档，并明确告知用户。
 - 生成过程中保持逐页与逻辑对照，发现逻辑与呈现脱节立即指出。
 
 ### 阶段五：再次修改（大师评审）
